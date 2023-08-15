@@ -2,9 +2,9 @@ title: Leonardo Chavez # your name (or website title) here
 logo: "/me (2).jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>En este espacio muestro y describo mis los proyectos realizados por mi persona y tambien proyectos grupales que tuvieron mi participacion constante.<br>
   Second description 
-  <br><br>
+  <br>Los trabajos como veran a continuacion se dividen en diferentes categorias de interes: Analitica de datos, desarrollo web, y desarrollo de apliaciones espero sea de su agrado..<br>
   <a href="https://www.linkedin.com/in/leonardo-david-chavez-calderon-de-la-barca-a1157b210/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
