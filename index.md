@@ -4,8 +4,9 @@
 
 ### Analisis de datos
 
-[Prediccion Accion de Ethereum](/sample_page)
+[Prediccion Accion de Ethereum](https://modelospredictivoseth-jhylacanpl6eah5na2mvet.streamlit.app/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[github](https://modelospredictivoseth-jhylacanpl6eah5na2mvet.streamlit.app/)
 
 ---
 [Analisis de sentimientos sobre comentarios de peliculas](/pdf/sample_presentation.pdf)
