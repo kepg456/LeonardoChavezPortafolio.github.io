@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analisis de sentimientos sobre comentarios de peliculas](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,12 @@
 
 ---
 
-### Category Name 2
+### Aplicaciones Web
 
-- [Project 1 Title](http://example.com/)
+[Sistema de gestion para el recojo de residuos](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
