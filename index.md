@@ -6,7 +6,7 @@
 
 [Prediccion Accion de Ethereum](https://modelospredictivoseth-jhylacanpl6eah5na2mvet.streamlit.app/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[github](https://modelospredictivoseth-jhylacanpl6eah5na2mvet.streamlit.app/)
+[github](https://github.com/kepg456/ModelosPredictivosETH)
 
 ---
 [Analisis de sentimientos sobre comentarios de peliculas](/pdf/sample_presentation.pdf)
