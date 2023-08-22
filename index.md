@@ -9,8 +9,9 @@
 [github](https://github.com/kepg456/ModelosPredictivosETH)
 
 ---
-[Analisis de sentimientos sobre comentarios de peliculas](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analisis de sentimientos sobre comentarios de peliculas](https://github.com/kepg456/analisis-sentimiento-Peliculas)
+<img src="images/img_analisis_sentimientos.png?raw=true"/>
+[github](https://github.com/kepg456/analisis-sentimiento-Peliculas)
 
 ---
 [Project 3 Title](http://example.com/)
