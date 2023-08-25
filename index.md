@@ -14,8 +14,8 @@
 [github](https://github.com/kepg456/analisis-sentimiento-Peliculas)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Estimacion de precios de celulares Xiomi usando random forest](https://colab.research.google.com/drive/13cFKD9F28pDxPwPatkfZJUEuxNLbITnW#scrollTo=la5U-wnjRRUv)
+<img src="images/Diseño sin título(1).png?raw=true"/>
 
 ---
 
