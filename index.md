@@ -16,6 +16,7 @@
 ---
 [Estimacion de precios de celulares Xiomi usando random forest](https://colab.research.google.com/drive/13cFKD9F28pDxPwPatkfZJUEuxNLbITnW#scrollTo=la5U-wnjRRUv)
 <img src="images/Diseño sin título(1).png?raw=true"/>
+[drive](https://drive.google.com/drive/folders/1VlOf4g90QgX3M3YbG2DviBUP1UukNL8i?usp=sharing)
 
 ---
 
