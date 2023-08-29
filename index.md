@@ -5,7 +5,7 @@
 ### Analisis de datos
 
 [Prediccion Accion de Ethereum](https://modelospredictivoseth-jhylacanpl6eah5na2mvet.streamlit.app/)
-- [python]
+- python
 <img src="images/Diseño sin título.png?raw=true"/>
 [github](https://github.com/kepg456/ModelosPredictivosETH)
 
